@@ -1,0 +1,48 @@
+body {
+  background: red;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: lighter;
+  line-height: 0.7em;
+}
+
+a {
+  color: white;
+}
+
+a:hover, a:enabled, a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+h3 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.timer-set {
+  font-size: 1.2em;
+}
+
+.display-timer {
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+  font-size: 2em;
+  margin-top: 20px;
+  border: 1px white solid;
+}
+
+.start-reset {
+  padding: 10px;
+  font-size: 1.3em;
+  background: white;
+  color: red;
+  width: 25%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
